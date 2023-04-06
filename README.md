@@ -1,6 +1,6 @@
 # Blockchain_Ledger
 
-This analysis guilds a blockchain-based ledger system including a user-friendly web interface. This ledger allows partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
+This analysis builds a blockchain-based ledger system including a user-friendly web interface. This ledger allows partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 
 Following steps were taken to update the script:
 
@@ -9,13 +9,13 @@ Following steps were taken to update the script:
 3. Create additional user input areas in the Streamlit application. These input areas collect the relevant information for each financial record stored in the PyChain ledger.
 4. Tested completed PyChain ledger.
 
-## Script
+## Script File
 
 [pychain.py](https://github.com/KSohi-max/Blockchain_Ledger/blob/main/pychain.py)
 
 ## Results
 
-Click to watch video:
+Click to watch video of User Interface:
 
 [![Blockchain_Ledger](https://github.com/KSohi-max/Blockchain_Ledger/blob/main/Images/Blockchain_Ledger.png)](https://youtu.be/_9i6pI86afM)
 
