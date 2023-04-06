@@ -9,6 +9,10 @@ Following steps were taken to update the script:
 3. Create additional user input areas in the Streamlit application. These input areas collect the relevant information for each financial record stored in the PyChain ledger.
 4. Tested completed PyChain ledger.
 
+## Script
+
+[pychain.py](https://github.com/KSohi-max/Blockchain_Ledger/blob/main/pychain.py)
+
 ## Results
 
 Click to watch video:
